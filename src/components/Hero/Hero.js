@@ -14,8 +14,8 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Hello <br />
-          I am Bayo <br />A Frontend Developer.
+          Hello, <br />
+          I am Bayo, <br />A Frontend Developer.
         </SectionTitle>
         <SectionText>I build awesome Frontend Web Applications.</SectionText>
         <Link href="#about">

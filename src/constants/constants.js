@@ -10,13 +10,13 @@ export const projects = [
     id: 0,
   },
   {
-    title: "Registration Portal",
+    title: "Hulu Clone",
     description:
-      "This is a simple registration app build with React and Firebase.",
-    image: "/images/registration.png",
-    tags: ["React", "Firebase"],
+      "This is application integrated with themoviedb API to display various categories of movies to the user .",
+    image: "/images/hulu_clone.png",
+    tags: ["React", "Nextjs", "Tailwind CSS", "API"],
     source: "https://google.com",
-    visit: "https://github.com/joshuabayo88/myuserApp",
+    visit: "https://hulu-clone-murex-three.vercel.app/",
     id: 1,
   },
   // {
