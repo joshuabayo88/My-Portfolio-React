@@ -29,6 +29,16 @@ export const projects = [
     visit: "https://sad-yalow-7f29e5.netlify.app/",
     id: 2,
   },
+  {
+    title: "Drum Kit",
+    description:
+      "This is a simple Drum Kit application built with Javascript with sound integration on it. Try it and Enjoy",
+    image: "/images/drum_kit.png",
+    tags: ["HTML", "CSS", "Bootstrap CSS", "Javascript"],
+    source: "https://github.com/joshuabayo88/Drum-Kit/tree/master",
+    visit: "https://peaceful-shirley-3c2492.netlify.app/",
+    id: 3,
+  },
   // {
   //   title: "WebRTC App",
   //   description:
